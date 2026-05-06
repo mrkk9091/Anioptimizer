@@ -1,9 +1,4 @@
-<div align="center">
-<p align="center">
-  <img src="banner.png" width="100%" />
-</p>
-
-  
+<div align="center">  
 <img src="https://img.shields.io/badge/AniOptimizer-V5.0-blueviolet?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/KernelSU-Supported-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Magisk-Supported-orange?style=for-the-badge"/>
@@ -11,6 +6,8 @@
 
 # 🎮 AniOptimizer V5.0
 ### Intelligent Gaming Performance Daemon for Android
+
+<img src="banner.png" width="100%" />
 
 **By [mrk](https://t.me/mrkGL01)**  
 📢 Community Channel: [t.me/optimizeph](https://t.me/optimizeph)
