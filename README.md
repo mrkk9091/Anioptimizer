@@ -1,5 +1,7 @@
 <div align="center">
-![Banner](banner.png)
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
 
   
 <img src="https://img.shields.io/badge/AniOptimizer-V5.0-blueviolet?style=for-the-badge&logo=android&logoColor=white"/>
