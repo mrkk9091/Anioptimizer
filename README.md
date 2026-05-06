@@ -1,5 +1,7 @@
 <div align="center">
+![Banner](banner.png)
 
+  
 <img src="https://img.shields.io/badge/AniOptimizer-V5.0-blueviolet?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/KernelSU-Supported-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Magisk-Supported-orange?style=for-the-badge"/>
@@ -219,7 +221,7 @@ Enable verbose output by setting `debug_log=1` in `config.conf`.
 
 <div align="center">
 
-Made with 🔥 by **[mrk](https://t.me/mrkGL01)**
+Made by **[mrk](https://t.me/mrkGL01)**
 
 💬 Telegram: [@mrkGL01](https://t.me/mrkGL01)  
 📢 Channel: [t.me/optimizeph](https://t.me/optimizeph)
