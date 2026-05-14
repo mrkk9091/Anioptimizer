@@ -220,7 +220,7 @@ Enable verbose output by setting `debug_log=1` in `config.conf`.
 
 <div align="center">
 
-Made by **[mrk](https://t.me/mrkGL01)**
+Made by **Mrk**
 
 💬 Telegram: [Profile](https://t.me/mrkGL01)  
 📢 Channel: [Telegram](https://t.me/MRKRDi81xXVmMTU9)
