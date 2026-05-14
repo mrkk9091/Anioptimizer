@@ -7,7 +7,7 @@
 # 🎮 AniOptimizer
 ### Intelligent Gaming Performance Daemon for Android
 
-<img src="banner.jpg" width="50%" />
+<img src="banner.png" width="50%" />
 
 **By [mrk](https://t.me/mrkGL01)**  
 📢 Community Channel: [t.me/optimizeph](https://t.me/optimizeph)
