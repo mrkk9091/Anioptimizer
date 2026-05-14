@@ -222,8 +222,8 @@ Enable verbose output by setting `debug_log=1` in `config.conf`.
 
 Made by **[mrk](https://t.me/mrkGL01)**
 
-💬 Telegram: [@mrkGL01](https://t.me/mrkGL01)  
-📢 Channel: [t.me/optimizeph](https://t.me/MRKRDi81xXVmMTU9)
+💬 Telegram: [Profile](https://t.me/mrkGL01)  
+📢 Channel: [Telegram](https://t.me/MRKRDi81xXVmMTU9)
 
 *Join the channel for updates, changelogs, and support.*
 
