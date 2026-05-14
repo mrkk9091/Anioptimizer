@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/Magisk-Supported-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Root-Required-red?style=for-the-badge"/>
 
-# 🎮 AniOptimizer V5.0
+# 🎮 AniOptimizer
 ### Intelligent Gaming Performance Daemon for Android
 
 <img src="banner.png" width="100%" />
