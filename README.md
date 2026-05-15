@@ -1,5 +1,5 @@
 <div align="center">  
-<img src="https://img.shields.io/badge/AniOptimizer-V5.0-blueviolet?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/AniOptimizer-blueviolet?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/KernelSU-Supported-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Magisk-Supported-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Root-Required-red?style=for-the-badge"/>
@@ -10,7 +10,7 @@
 <img src="banner.png" width="50%" />
 
 **By [mrk](https://t.me/mrkGL01)**  
-📢 Community Channel: [t.me/optimizeph](https://t.me/optimizeph)
+📢 Community Channel: https://t.me/MRKRDi81xXVmMTU9
 
 </div>
 
