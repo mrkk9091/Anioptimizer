@@ -1,21 +1,30 @@
-MIT License
+Copyright (c) 2026 mrk (https://t.me/mrkGL01)
+All rights reserved.
+PROPRIETARY LICENSE
+This software and all associated files are the exclusive
+property of the author. The source code is closed and not publicly available.
 
-Copyright (c) 2026 mrk
+PERMITTED:
+- You may install and use on your personal devices.
+- You may share the original, unmodified flashable zip freely, provided
+  this license and all copyright notices remain intact.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+NOT PERMITTED:
+- You may not decompile, disassemble, reverse engineer, or otherwise
+  attempt to derive the source code of this software.
+- You may not modify, patch, or create derivative works based on this
+  software or any of its components.
+- You may not repackage, rebrand, or redistribute this software under
+  a different name or as part of another module without explicit written
+  permission from the author.
+- You may not sell or sublicense this software or any portion of it.
+- You may not claim authorship or ownership of this software.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+DISCLAIMER:
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED. THE AUTHOR SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM
+THE USE OF THIS SOFTWARE, INCLUDING BUT NOT LIMITED TO DEVICE DAMAGE,
+DATA LOSS, OR BATTERY DEGRADATION. USE AT YOUR OWN RISK.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+For permissions beyond the scope of this license, contact:
+Telegram: https://t.me/mrkGL01
